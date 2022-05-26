@@ -1,7 +1,0 @@
-﻿  MonsterWorldGame.cpp
-C:\Users\song\OneDrive\바탕 화면\Minsu\Project\Week10-3\Human.h(11,27): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
-C:\Users\song\OneDrive\바탕 화면\Minsu\Project\Week10-3\Human.h(13,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
-C:\Users\song\OneDrive\바탕 화면\Minsu\Project\Week10-3\MonsterWorld.h(61,8): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
-C:\Users\song\OneDrive\바탕 화면\Minsu\Project\Week10-3\MonsterWorld.h(62,24): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
-C:\Users\song\OneDrive\바탕 화면\Minsu\Project\Week10-3\MonsterWorld.h(64,11): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
-  실습10장_1번.vcxproj -> C:\Users\song\OneDrive\바탕 화면\Minsu\Project\Week10-3\Debug\Week10-3.exe
