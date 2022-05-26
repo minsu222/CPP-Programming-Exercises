@@ -1,0 +1,4 @@
+﻿  MonsterWorldGame.cpp
+C:\Users\song\OneDrive\바탕 화면\repos\Project1\Week10-2\MonsterWorldV5\Human.h(11,27): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+C:\Users\song\OneDrive\바탕 화면\repos\Project1\Week10-2\MonsterWorldV5\Human.h(13,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  10장-MonsterWorldV5.vcxproj -> C:\Users\song\OneDrive\바탕 화면\repos\Project1\Week10-2\MonsterWorldV5\Debug\MonsterWorldV5.exe
